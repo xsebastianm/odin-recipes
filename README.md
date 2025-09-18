@@ -1,2 +1,3 @@
-in this project i'll use the things i learned about the HTML and Git/Github fundamentals # odin-recipes
+This used the knowledge I've learned about the HTML and Git/Github fundamentals!
 
+You can see the result here: https://xsebastianm.github.io/odin-recipes/
